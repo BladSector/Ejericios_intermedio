@@ -1,0 +1,13 @@
+'''
+listas_2.py 
+script en python que calcula y muestra la suma de dos matrices
+cuadradas (misma cantidad de renglones y columnas) generadas
+aleatoriamente. Utilizar comprension de listas para generar 
+las matrices de forma aleatoria.
+'''
+
+import random
+
+N = 3
+
+print(f'Programa que calcula la suma de las matrices de tamanio {N}X{N}')
